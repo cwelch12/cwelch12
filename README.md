@@ -1,4 +1,4 @@
-<h1>Hi, I'm Chris! <br/><a href="https://github.com/cwelch12">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/@clw1935">YouTuber</a></h1>
+<h1>Hi, I'm Chris! <br/><a href="https://github.com/cwelch12">Programmer</a>, <a href="https://www.linkedin.com/in/clw1935/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/@clw1935">YouTuber</a></h1>
 
 
 <h2> Certifications:</h2>
@@ -44,7 +44,7 @@ Comptia A+
 
 
 [youtube]: https://www.youtube.com/@clw1935
-[linkedin]: https://linkedin.com/in/joshmadakor
+[linkedin]: https://linkedin.com/in/clw1935
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
