@@ -1,4 +1,4 @@
-<h1>Hi, I'm Chris! <br/><a href="https://github.com/cwelch12">Programmer</a>, <a href="https://www.linkedin.com/in/clw1935/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/@clw1935">YouTuber</a></h1>
+<h1>Hi, I'm Chris! <br/><a href="https://github.com/cwelch12">Programmer</a> and <a href="https://www.linkedin.com/in/clw1935/">Cybersecurity Professional</a>
 
 
 <h2> Certifications:</h2>
